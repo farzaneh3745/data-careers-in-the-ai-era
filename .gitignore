@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Raw survey files (too large for GitHub, see README for source)
+data/raw/
